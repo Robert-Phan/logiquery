@@ -1,0 +1,1 @@
+A library for doing logical programming in Javascript.
